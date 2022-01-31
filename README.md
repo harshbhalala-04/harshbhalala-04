@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/harsh_bhalala04/"><img src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" width="25px" height="25px" /></a>
 <a href="https://github.com/harshbhalala-04"><img src="https://camo.githubusercontent.com/c3cc4c8f14a482343a19ac319ee95631571fe6d6fa68bc1a0a4a12ff8c17e326/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31322e322f69636f6e732f6769746875622e737667" width="25px" height="25px"/></a>
 
-![](https://komarev.com/ghpvc/?username=harshbhalala-04)
+
 
 
 [Resume.pdf](https://github.com/harshbhalala-04/harshbhalala-04/files/7149640/Harsh.Bhalala.CV.pdf)
