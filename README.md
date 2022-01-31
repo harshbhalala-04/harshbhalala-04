@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Flutter App Development.
-- 🌱 I’m currently learning  MERN Stack Web Development.
+- 🌱 I’m currently learning Blockchain & MERN Stack Web Development.
 - 👯 I’m looking to collaborate on various app ideas and projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/harsh-bhalala-1587451a9/">Harsh Bhalala</a>   
 - <a href="https://harshbhalala-04.github.io/Portfolio/">Portfolio</a>
