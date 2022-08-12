@@ -6,7 +6,7 @@ I am Bhalala Harsh. I am curently pursuing my BTech degree from Dharamsinh Desai
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Flutter App Development.
+- 🔭 I’m currently working on ... Flutter Web & App Development.
 - 🌱 I’m currently learning ... MERN Stack Web Development.
 - 👯 I’m looking to collaborate on ... various app ideas and projects.
 - 🤔 I’m looking for help with ...
