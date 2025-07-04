@@ -1,13 +1,12 @@
 ### Hi there 👋
-I am Bhalala Harsh. I am curently pursuing my BTech degree from Dharamsinh Desai University as a Pre-Final Year IT Student. I am always keen to learn new Technologies. 
+I am Bhalala Harsh. I am currently working at Pirimid Fintech as a Software Engineer. I am always keen to learn new Technologies. 
 
 <!--
 **harshbhalala-04/harshbhalala-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Flutter Web & App Development.
-- 🌱 I’m currently learning ... MERN Stack Web Development.
+- 🔭 I’m currently working on ... Flutter for App Development.
 - 👯 I’m looking to collaborate on ... various app ideas and projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Flutter App Development.
-- 🌱 I’m currently learning Blockchain & MERN Stack Web Development.
+- 🔭 I’m currently working on Flutter, React JS, Spring Boot for web & app development.
 - 👯 I’m looking to collaborate on various app ideas and projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/harsh-bhalala-1587451a9/">Harsh Bhalala</a>   
 - <a href="https://harshbhalala-04.github.io/Portfolio/">Portfolio</a>
